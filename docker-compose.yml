@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : docker push gayatrisingh31/django-app:latest
+     image : gayatrisingh31/django-app:latest
      ports :
          - "8000:8000"
